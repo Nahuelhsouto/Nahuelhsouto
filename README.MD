@@ -1,6 +1,6 @@
  <samp>
 I'm Nahuel. A Software Developer and a creative mind, when I get into a project I always try to leave my artistic signature on it. Although programming is a hobby for me, I also did work as a freelancer.
-     <br><br>Contact me on <a href="linkedin.com/in/hipolito-nahuel-souto-3b4223197">Linkedin</a>, or <a href="mailto:nahuelhsouto@gmail.com">Send an Email</a>
+     <br><br>Contact me on <a href="https://www.linkedin.com/in/hipolito-nahuel-souto-3b4223197">Linkedin</a>, or <a href="mailto:nahuelhsouto@gmail.com">Send an Email</a>
   </samp>
   
 <img alt="Night Coding" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="500" height="300" align="right"/><br><br>
