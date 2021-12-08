@@ -13,7 +13,6 @@ I'm Nahuel Souto. A Software Developer and a creative mind, when I get into a pr
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' width="45" height="45">
  </div>
  <div>
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' width="45" height="45">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg' width="45" height="45">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width="45" height="45">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' width="45" height="45">
