@@ -5,7 +5,7 @@ I'm Nahuel Souto. A Software Developer and a creative mind, when I get into a pr
   
 ## 🛠 &nbsp;Tech Stack
 <br>
-<div>
+<div align= "center">
 
 <div width="30em">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="45" height="45">
