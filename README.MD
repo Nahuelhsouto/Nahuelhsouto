@@ -10,7 +10,7 @@ I'm Nahuel Souto. A Software Developer and a creative mind, when I get into a pr
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nahuelhsouto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nahuelhsouto&layout=compact&langs_count=8&theme=algolia"/>
 </a>
-<div>
+<div width="30em">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="45" height="45">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg' width="45" height="45">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg' width="45" height="45">
