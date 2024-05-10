@@ -3,7 +3,6 @@ I'm Nahuel Souto. A Software Developer and a creative mind, when I get into a pr
      <br><br>Contact me on <a href="https://www.linkedin.com/in/nahuelhsouto/">Linkedin</a>, or <a href="mailto:nahuelhsouto@gmail.com">Send an Email</a>
   </samp>
   
-<img alt="Night Coding" src="https://static.wixstatic.com/media/669128_ec1c7a78e9694aec8a07c2e48b292ae1~mv2.gif" width="500" height="300" align="right"/><br><br>
 ## 🛠 &nbsp;Tech Stack
 <div>
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' width="45" height="45">
