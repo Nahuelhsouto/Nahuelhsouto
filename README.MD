@@ -1,5 +1,5 @@
  <samp>
-I'm Nahuel Souto. A Software Developer and a creative mind, when I get into a project I always try to leave my artistic signature on it. Although programming is a hobby for me, I also have professional experience as a freelancer.
+I'm Nahuel Souto. A Software Developer and a creative mind, when I get into a project I always try to leave my artistic signature on it.
      <br><br>Contact me on <a href="https://www.linkedin.com/in/nahuelhsouto/">Linkedin</a>, or <a href="mailto:nahuelhsouto@gmail.com">Send an Email</a>
   </samp>
   
