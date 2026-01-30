@@ -31,15 +31,6 @@ I’m a software developer with a strong technical foundation and a creative min
 * MongoDB
 * Supabase
 
-<div align="center">
-
-<a href="https://github.com/Nahuelhsouto">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nahuelhsouto&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nahuelhsouto&layout=compact&langs_count=8&theme=algolia" />
-</a>
-
-</div>
-
 ---
 
 ## 🚀 About Me
